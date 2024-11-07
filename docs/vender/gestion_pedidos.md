@@ -1,8 +1,6 @@
-# Gestio de Pedidos
+# Gestión de Pedidos
 
-Esta sección explica cómo gestionar los pedidos de clientes en PrestaShop.
 
-# Información General sobre la Gestión de Pedidos
 
 La página de **Pedidos**, accesible desde el menú principal, muestra toda la información relacionada con las ventas de tu tienda. Los pedidos se organizan por fecha, desde el más reciente hasta el más antiguo.
 
