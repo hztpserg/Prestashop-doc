@@ -1,5 +1,4 @@
-# Gestión de Pedidos
-
+# Gestión de pedidos
 
 
 La página de **Pedidos**, accesible desde el menú principal, muestra toda la información relacionada con las ventas de tu tienda. Los pedidos se organizan por fecha, desde el más reciente hasta el más antiguo.
