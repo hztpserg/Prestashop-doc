@@ -5,7 +5,7 @@ Documentación de Prestashop
 
 [Prestashop - pagina Oficial](https://github.com/prestashop/prestashop/tree/develop/docs)
 
-1. [Vender 🛒](docs/vender/README.md#prestashop-doc)
+1. [Vender 🛒](docs/README.md#prestashop-doc)
    * [Gestión de pedidos 📦](docs/vender/gestion_pedidos.md#gestión-de-pedidos)
    * [Gestión de Productos 🛍️](docs/vender/gestion_productos.md)
    * [Gestión de clientes 👥](docs/vender/gestion_clientes.md)
